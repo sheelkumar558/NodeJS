@@ -8,7 +8,7 @@ const App = () => {
   const [itemData, setItemData] = useState([]);
   const [itemUpdateText, setItemUpdateText] = useState("");
   const [itemUpdate, setItemUpdate] = useState("");
-
+  //mern app
   const addItem = async (e) => {
     e.preventDefault();
     try {
