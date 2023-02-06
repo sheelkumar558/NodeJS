@@ -6,6 +6,9 @@ const TodoRoutes = require("./routes/todoRoutes");
 const app = express();
 //use express.json() to get data into json formate
 app.use(express.json());
+app.get("/", (req, res) => {
+  res.send("Hello");
+});
 const PORT = process.env.PORT || 5500;
 app.use(cors());
 mongoose
