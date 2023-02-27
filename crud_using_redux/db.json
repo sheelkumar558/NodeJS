@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "masai",
+      "no_of_chapter": 6,
+      "book_name": "full stack",
+      "category": "Novel",
+      "release_year": 2019,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "masai",
+      "no_of_chapter": 6,
+      "book_name": "full stack",
+      "category": "function",
+      "release_year": 2020,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "masai",
+      "no_of_chapter": 6,
+      "book_name": "full stack",
+      "category": "Novel",
+      "release_year": 2018,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    },
+    {
+      "id": 4,
+      "author": "masai",
+      "no_of_chapter": 6,
+      "book_name": "full stack",
+      "category": "function",
+      "release_year": 2017,
+      "chapters": [
+        { "name": "HTML", "pages": 25 },
+        { "name": "CSS", "pages": 20 }
+      ]
+    }
+  ]
+}
